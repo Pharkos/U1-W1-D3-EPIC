@@ -69,3 +69,7 @@ h2 {
 footer p a {
   color: #75aeae;
 }
+
+header img {
+  width: 120px;
+}
